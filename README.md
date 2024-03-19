@@ -38,6 +38,23 @@
 
 <!-- Include the second HTML file -->
 <a href="8.jpg">Image 8</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="9.jpg">Image 9</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="10.jpg">Image 10</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="11.jpg">Image 11</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="12.jpg">Image 12</a>
+<br>
 </body>
 
 </html>

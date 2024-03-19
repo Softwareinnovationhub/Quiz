@@ -55,6 +55,22 @@
 <!-- Include the second HTML file -->
 <a href="12.jpg">Image 12</a>
 <br>
+
+<!-- Include the second HTML file -->
+<a href="13.jpg">Image 13</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="14.jpg">Image 14</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="15.jpg">Image 15</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="16.jpg">Image 16</a>
+<br>
 </body>
 
 </html>

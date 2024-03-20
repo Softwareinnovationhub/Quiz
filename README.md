@@ -71,6 +71,70 @@
 <!-- Include the second HTML file -->
 <a href="16.jpg">Image 16</a>
 <br>
+
+<!-- Include the first HTML file -->
+<a href="17.jpg" >Image 17</a>  
+  <br>
+
+  <!-- Include the second HTML file -->
+  <a href="18.jpg">Image 18</a>
+  <br>
+
+  <!-- Include the first HTML file -->
+<a href="19.jpg" >Image 19</a>  
+<br>
+
+<!-- Include the second HTML file -->
+<a href="20.jpg">Image 20</a>
+<br>
+
+<!-- Include the first HTML file -->
+<a href="21.jpg" >Image 21</a>  
+  <br>
+  
+  <!-- Include the second HTML file -->
+  <a href="22.jpg">Image 22</a>
+  <br>
+
+  <!-- Include the first HTML file -->
+<a href="23.jpg" >Image 23</a>  
+<br>
+
+<!-- Include the second HTML file -->
+<a href="24.jpg">Image 24</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="25.jpg">Image 25</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="26.jpg">Image 26</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="27.jpg">Image 27</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="28.jpg">Image 28</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="29.jpg">Image 29</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="30.jpg">Image 30</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="31.jpg">Image 31</a>
+<br>
+
+<!-- Include the second HTML file -->
+<a href="32.jpg">Image 32</a>
+<br>
 </body>
 
 </html>
